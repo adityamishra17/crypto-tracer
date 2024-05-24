@@ -1,0 +1,19 @@
+.gradient {
+
+    /* background-color: #000a30;
+    background-image: linear-gradient(158deg, #000a30 0%, #32005d 57%, #004c5b 100%); */
+
+    background-color: #000823;
+    background-image: linear-gradient(158deg, #000823 0%, #32005d 57%, #290034 100%);
+
+}
+
+.header {
+   
+    background-color: #070030;
+    background-image: linear-gradient(135deg, #070030 19%, #35005d 60%, #080142 84%);
+
+
+
+
+}
